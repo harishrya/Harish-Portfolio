@@ -846,6 +846,9 @@ body.dark-mode {
 .buts {
 	justify-items: center;
 }
+#aboutpage {
+	padding-bottom: 0px;
+}
 
     
 
