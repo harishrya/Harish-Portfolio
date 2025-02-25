@@ -843,6 +843,9 @@ body.dark-mode {
     .services {
         margin-bottom: 20px;
     }
+.buts {
+	justify-items: center;
+}
 
     
 
